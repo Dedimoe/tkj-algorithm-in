@@ -1,2 +1,2 @@
-# tkj-algorithm-in
-tkj-python-algoritma
+# tkj-algorithm-in-python
+tkj-algoritma-in-python

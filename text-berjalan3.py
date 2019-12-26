@@ -1,4 +1,7 @@
-import Tkinter as tk
+#utk python2
+#import Tkinter as tk
+#utk python3:
+import tkinter as tk
 
 awal = tk.Tk()
 tunda = 100           # seperseribu penundaan per huruf
